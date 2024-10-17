@@ -1,2 +1,4 @@
-# linux-command
-유용한 리눅스 명령어
+# 각종 명령어
+goto WIKI
+
+https://github.com/rick-planit/command-library/wiki
